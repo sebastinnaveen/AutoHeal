@@ -45,9 +45,7 @@
         <!-- end::tests[] -->
     </dependencies>
 
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
+  
 
     <build>
     <finalName>autoheal</finalName>
