@@ -1,0 +1,15 @@
+actions:
+   apache: apache-ansible.yaml
+   logrotate: logrot-ansible.yaml
+   cpuhigh: cpu-ansible.yaml
+    
+prefix:
+    stringProp1: slack
+    stringProp2: zabbix
+    intProp1: 10
+    listProp:
+        - listValue1
+        - listValue2
+    mapProp:
+        key1: mapValue1
+        key2: mapValue2

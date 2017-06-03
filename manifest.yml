@@ -1,0 +1,4 @@
+applications:
+- name: autoheal
+  instances: 1
+  path: ./target/autoheal.jar
