@@ -16,7 +16,7 @@ import com.jcraft.jsch.ChannelExec;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.Session;
 import com.techgig.autoheal.services.ConfigBean;
-import com.techgig.autoheal.services.ContextConfiguration;
+
 import com.techgig.autoheal.services.SampleProperty;
 import com.techgig.autoheal.utils.JsonPropertySourceLoader;
 
@@ -25,8 +25,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 @RestController
 public class AutohealController {
-	 @Autowired
-	    private ContextConfiguration configBean;
+	
 	 HttpURLConnection connection = null;
 	 @Autowired
 	    private SampleProperty sampleProperty;
