@@ -5,7 +5,7 @@ deploy:
   provider: cloudfoundry
   api: https://api.run.pivotal.io
   username: venke80@gmail.com
-  password:Techgig1!
+  password: Techgig1!
   organization: techgig
   space: development
   
