@@ -46,7 +46,7 @@ public class AutohealController {
 	    	         connection.setDoOutput(true);
 
 	    	         final String payload = "payload="
-	    	                 + URLEncoder.encode("{\"channel\":\"#devops\",\"username\":\"webhookbot\",\"text\":\"Test message from Naveen #devops and comes from a bot named webhookbot\",\"icon_emoji\":\":ghost:\"}", "UTF-8");
+	    	                 + URLEncoder.encode("{\"channel\":\"#devops\",\"username\":\"Sizzler-DevOps\",\"text\":\"Test message from Naveen #devops\",\"icon_emoji\":\":happy:\"}", "UTF-8");
 
 	    	         // Send request
 	    	         final DataOutputStream wr = new DataOutputStream(
