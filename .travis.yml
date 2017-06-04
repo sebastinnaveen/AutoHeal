@@ -5,8 +5,7 @@ deploy:
   provider: cloudfoundry
   api: https://api.run.pivotal.io
   username: venke80@gmail.com
-  password:
-    secure: oXWIaVGsd8V8jmYhnW7qxJK3mt9MkZFOYRgn7JkfMUd7Kg7zw+6C2JSvbHTGYiv3rtj5bQsWk0w0fFUd/OE4ZGMOB1d57g5aiF4JK/vJgsg/UffUAMZv3Pu+AH8SZUI7/cQ4ry9mgZ3C7V3/K3qNLtX12xLNo9dZA4/HruF1XBtGMs+KoI9pUKuhtxjLcbsi7LIvBGSR90Ky89HTjN+fBmgMdb6hUXPgR4HRUW5KTbSJRvuN1Goo5Y9/Tbsyfb1ESeidtA2+G3rgDCTGuojZDws8Ceg4ZWBGZ5JiSEOAAcVEf+oGo8jPAMqTnoy8H0gkgc9tKBO5hIFCpfkmsifa66ZozwrAwgqJOtNYTw7gIwnyXaHK/i0cBhahGltZgpV9GCyoVZcvqDSJOTtF6GsgHg865ZYgQFsH+zpCLqxd+PqVAkR9TkvYreNrSi9/HnV68YQ3qYZldFQRvTKXFr2fRWo1YW2Ibv2O/E6D/nPDjzkYtOLucF+fXX+aMAnGRmMFOXewUP6tjORb22UH2dULWGBo1xU8RykIYr3gXVr61cCqKpskzlym2CnIFgU78iIcHJDOirdn0Kh2a1utT3snzMoneHBXwIe0WgY4kKZRlVck10kZS5QksLJtlFk3Z8rhXlzScezcBwMWuLYuF5aoQ1Hnquc909/ZTPKsN9Nswj8=
+  password:Techgig1!
   organization: techgig
   space: development
   
